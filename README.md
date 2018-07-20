@@ -13,9 +13,16 @@ But explicitly forbids you to:
 
 You are authorized to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/), but are not authorized to commit on it (as it would create a derivative), unless a Court of Law decides otherwise.
 
+## KSP Versions Supported
+
+* [1.3 Series](https://github.com/net-lisias-ksp/gmv/tree/1.3)
+* [Binaries](./Archive)
+
 ## References
 
-* [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
-* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/grounded-modular-vehicles)
+* [Change Log](./CHANGE_LOG.md)
 * [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/171377-13x14x-grounded-modular-vehicles-r30l-breaks-old-crafts-engine-on-chassis-new-paint-variant-ported-back-to-13x-fixes-jul-20-2018/)
+* Official Distribution Sites
+	* [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
+	* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/grounded-modular-vehicles)
 
