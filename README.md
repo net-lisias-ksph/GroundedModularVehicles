@@ -21,7 +21,9 @@ Source only. Binaries on [master](https://github.com/net-lisias-ksp/gmv/)
 
 ## References
 
-* [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
-* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/grounded-modular-vehicles)
+* [Change Log](./CHANGE_LOG.md)
 * [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/171377-13x14x-grounded-modular-vehicles-r30l-breaks-old-crafts-engine-on-chassis-new-paint-variant-ported-back-to-13x-fixes-jul-20-2018/)
+* Official Distribution Sites
+	* [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
+	* [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/grounded-modular-vehicles)
 
