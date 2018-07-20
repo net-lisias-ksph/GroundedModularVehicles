@@ -1,5 +1,15 @@
 # Ground - Modular Vehicles :: Change Log
 
+* 2018-0720 : Release 3.0 for KSP 1.4.1
+	- NOTE: Latest changes will break saves :(
+	- Added Chassis Hybrid Cell - can be attached with the chassis but no fuel on its own
+	- Added Modular Chassis Fuel Tank - attached on Chassis Hybrid Cell sides or below widebody platforms with nodes
+	- Added "Deluxe Black" texture for all variant switch capable parts
+	- Separated Modular Platform Segment A to with and without chassis
+	- Separated Modular Platform Segment D to with and without chassis
+	- Fixed G1 Mini Service Command having up to 2 kerbals despite only physically fitting 1
+	- Fixed G1 Hatch Back colliders making it unable to attach inside the hatch
+	- Fixed Hitch Parts not appearing due to wrong tech nodes in configs
 * 2018-0318 : Release 2.0 for KSP 1.4.1
 	- Updated to 1.4.x
 	- Added G1 Access Ramp
