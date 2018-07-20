@@ -13,6 +13,12 @@ But explicitly forbids you to:
 
 You are authorized to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/), but are not authorized to commit on it (as it would create a derivative), unless a Court of Law decides otherwise.
 
+## KSP 1.3
+
+This is the branch for Kerbal Space Program 1.3.x support.
+
+Source only. Binaries on [master](https://github.com/net-lisias-ksp/gmv/)
+
 ## References
 
 * [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
