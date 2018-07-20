@@ -16,6 +16,7 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 ## KSP Versions Supported
 
 * [1.3 Series](https://github.com/net-lisias-ksp/gmv/tree/1.3)
+* [1.4 Series](https://github.com/net-lisias-ksp/gmv/tree/1.4)
 * [Binaries](./Archive)
 
 ## References
