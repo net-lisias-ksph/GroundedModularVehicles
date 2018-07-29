@@ -1,4 +1,4 @@
-# Grounded - Modular Vehicles : UNOFFICIAL
+# Grounded - Modular Vehicles : KSP 1.3
 
 This is a unofficial, non authorized repository for Grounded - Modular Vehicles for historical reference and troubleshooting.
 
@@ -17,11 +17,15 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 This is the branch for Kerbal Space Program 1.3.x support.
 
-Source only. Binaries on [master](https://github.com/net-lisias-ksp/gmv/)
+Source only. 
+
+* [Front Page](https://github.com/net-lisias-kspu/GroundedModularVehicles/)
+* [1.4 Series](https://github.com/net-lisias-ksp/GroundedModularVehicles/tree/KSP/1.4)
+* [Binaries](https://github.com/net-lisias-ksp/GroundedModularVehicles/tree/Archive)
+* [Change Log](./CHANGE_LOG.md)
 
 ## References
 
-* [Change Log](./CHANGE_LOG.md)
 * [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/171377-13x14x-grounded-modular-vehicles-r30l-breaks-old-crafts-engine-on-chassis-new-paint-variant-ported-back-to-13x-fixes-jul-20-2018/)
 * Official Distribution Sites
 	* [Spacedock](https://spacedock.info/mod/1715/Grounded%20-%20Modular%20Vehicles)
