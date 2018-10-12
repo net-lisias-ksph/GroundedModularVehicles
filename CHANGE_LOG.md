@@ -1,5 +1,7 @@
 # Ground - Modular Vehicles :: Change Log
 
+* 2018-1009 : Release 4.0L for KSP 1.3.1
+	- Fixed Modular Platform Segment A + Chassis nodes being only the top
 * 2018-0720 : Release 3.0L for KSP 1.3.1 (Backported)
 	- NOTE: Latest changes will break saves :(
 	- Added Chassis Hybrid Cell - can be attached with the chassis but no fuel on its own
