@@ -15,9 +15,9 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 ## KSP Versions Supported
 
-* [1.3 Series](https://github.com/net-lisias-kspu/GroundedModularVehicles/tree/KSP/1.3)
-* [1.4 Series](https://github.com/net-lisias-kspu/GroundedModularVehicles/tree/KSP/1.4)
-* [Binaries](https://github.com/net-lisias-kspu/GroundedModularVehicles/tree/Archive)
+* [1.3 Series](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/KSP/1.3)
+* [1.4 Series](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/KSP/1.4)
+* [Binaries](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/Archive)
 * [Change Log](./CHANGE_LOG.md)
 
 
