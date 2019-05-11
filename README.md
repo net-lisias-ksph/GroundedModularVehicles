@@ -5,7 +5,7 @@ This is a unofficial, non authorized repository for Grounded - Modular Vehicles 
 ## KSP Versions Supported
 
 * [Releases](./Archive)
-* [Front Page](https://github.com/net-lisias-kspu/GroundedModularVehicles/)
-* [1.3 Series](https://github.com/net-lisias-ksp/GroundedModularVehicles/tree/1.3)
-* [1.4 Series](https://github.com/net-lisias-ksp/GroundedModularVehicles/tree/1.4)
+* [Change Log](./CHANGE_LOG.md)
+* [Front Page](https://github.com/net-lisias-ksph/GroundedModularVehicles/)
+
 
