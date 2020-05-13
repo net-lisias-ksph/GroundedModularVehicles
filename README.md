@@ -17,6 +17,9 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 
 * [1.3 Series](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/KSP/1.3)
 * [1.4 Series](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/KSP/1.4)
+* 1.5 had no releases
+* 1.6 had no releases
+* [1.7 Series](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/KSP/1.7)
 * [Binaries](https://github.com/net-lisias-ksph/GroundedModularVehicles/tree/Archive)
 * [Change Log](./CHANGE_LOG.md)
 
