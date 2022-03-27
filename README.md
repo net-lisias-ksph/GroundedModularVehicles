@@ -2,16 +2,15 @@
 
 This is a unofficial, non authorized repository for Grounded - Modular Vehicles for historical reference and troubleshooting.
 
-This AddOn is (C) [blackheart612](https://spacedock.info/profile/blackheart612) and licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?), what allows you to:
+This AddOn is (C) [blackheart612](https://spacedock.info/profile/blackheart612) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sA/4.0/?), what allows you to:
 
 * copy and redistribute the material in any medium or format
-
+* create derivatives
+ 
 But explicitly forbids you to:
 
 * Exploit it commercially
-* Make any kind of derivative.
 
-You are authorized to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/), but are not authorized to commit on it (as it would create a derivative), unless a Court of Law decides otherwise.
 
 ## KSP Versions Supported
 
